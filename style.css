@@ -1,0 +1,67 @@
+#header
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    height: 200px;
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: black;
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+
+body
+{
+  background-size: cover;
+}
+
+.songresult
+{
+    width: 40%;
+    height: 70px;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    
+    
+}
+
+#songname {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+}
+
+.note
+{
+    font-size:15px;
+    color: darkorchid;
+}
+
+canvas {
+    border: 5px solid magenta;
+    border-radius: 20px;
+    box-shadow: 6px 6px 6px ivory;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
